@@ -1,0 +1,19 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+/* bagian ini untuk mengatur css pada projects */
+#projects {
+    background-color: #e2edff;
+}
+/* bagian ini untuk mengatur section pad semua agar pas saat terklik masing" web */
+section{
+    padding-top: 4rem;
+}
+
+hr{
+  border-top: 3px solid #444;
+}
